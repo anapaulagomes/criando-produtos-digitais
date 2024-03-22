@@ -8,6 +8,10 @@ Uma lista de ferramentas brasileiras para começar produtos digitais (SaaS)
 - [Como Contribuir](CONTRIBUTING.md)
 - [Ferramentas](#ferramentas)
 
+## Comunidades
+
+* [Micro SaaS](https://microsaas.com.br/)
+
 ## Ferramentas
 
 ### Cloud
