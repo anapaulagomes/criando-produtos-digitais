@@ -1,6 +1,6 @@
 # Criando Produtos Digitais
 
-Uma lista de ferramentas brasileiras para começar produtos digitais (SaaS)
+Uma lista de ferramentas brasileiras para começar produtos digitais (SaaS) 🇧🇷
 
 ## Índice
 
